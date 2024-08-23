@@ -3,7 +3,7 @@
   "name": "Test",
   "logo": {
     "dark": "/logo/mountain-logo.png",
-    "light": "/logo/light.svg"
+    "light": "/logo/mountain-logo.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
