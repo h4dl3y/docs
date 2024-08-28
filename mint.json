@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Major Arcana",
       "pages": [
         "introduction",
         "quickstart",
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Minor Arcana",
       "pages": [
         "essentials/markdown",
         "essentials/code",
