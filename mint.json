@@ -31,6 +31,12 @@
       "url": "api-reference"
     }
   ],
+  "tabs": [
+    {
+      "name": "Tarot Advice",
+      "url": "tarot-advice"
+    }
+  ],
   "anchors": [
     {
       "name": "Documentation",
